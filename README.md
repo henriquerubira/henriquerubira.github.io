@@ -294,9 +294,9 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-</script>
+<!-- </script> 
 
-<!-- </body>
+ </body>
 </html> -->
 
 ~                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
